@@ -1,7 +1,8 @@
 
-Building a Resume using html and css  
+Building a Resume using html and css 
+
 ### Project Description
-This project is a personal resume webpage created using HTML and CSS as part of the AppDev Lab assignment.
+This project is a personal resume webpage created using HTML and CSS 
 ### Technologies Used
 - HTML5
 - CSS3
