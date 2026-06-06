@@ -1,5 +1,5 @@
-## AD_Lab_2330044_Experiment-1
-Building a Resume using html and css  – Application Development Lab
+
+Building a Resume using html and css  
 ### Project Description
 This project is a personal resume webpage created using HTML and CSS as part of the AppDev Lab assignment.
 ### Technologies Used
@@ -14,9 +14,5 @@ This project is a personal resume webpage created using HTML and CSS as part of 
 - myphoto.jpg – Profile picture used in resume
 - testing devices - Screenshots of the resume in different devices
 
-### Student Name
-- Sannidhi Deb  
-- Roll No: 2330044
-- ECSc- 4
-- 6th semester (2025-2026)
+
 
